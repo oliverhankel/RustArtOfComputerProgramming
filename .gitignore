@@ -5,3 +5,5 @@ variables/Cargo.lock
 variables/target
 conditions/target
 conditions/Cargo.lock
+loops/Cargo.lock
+loops/target
