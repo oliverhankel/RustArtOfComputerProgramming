@@ -1,3 +1,5 @@
 hello_world/Cargo.lock
 hello_world/target
 .vscode/tasks.json
+variables/Cargo.lock
+variables/target
