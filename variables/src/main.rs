@@ -18,7 +18,7 @@ fn main() {
 
     let a: bool = true;
 
-    let chara: char = 'ü is a umlaut'; 
+    let chara: char = 'ü';
 
     if a 
     {
