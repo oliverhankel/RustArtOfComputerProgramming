@@ -29,5 +29,15 @@ fn main() {
 
     println!("Max value: {}", i32::max_value());
     
+    // Arrays: A list with float numbers
+    let arr:[f64;4] = [1.0, 2.45, 3.1, 4.67];
+    println!("Second number in the array: {}",arr[2]); 
+    println!("Length of the array: {}",arr.len()); 
+
+    for item in &arr 
+    {
+        println!("item in arr: {}",item);
+    }
+
 
 }
