@@ -25,6 +25,9 @@ fn main() {
         println!("{}",chara);
     }
 
+    let y: i32 = 13; // i32 = 32 bit for representing a number, now set to 13 bit
 
+    println!("Max value: {}", i32::max_value());
+    
 
 }
