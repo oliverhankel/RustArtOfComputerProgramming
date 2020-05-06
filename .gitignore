@@ -7,3 +7,5 @@ conditions/target
 conditions/Cargo.lock
 loops/Cargo.lock
 loops/target
+slices/target
+slices/Cargo.lock
