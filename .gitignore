@@ -9,3 +9,5 @@ loops/Cargo.lock
 loops/target
 slices/target
 slices/Cargo.lock
+functions/target
+functions/Cargo.lock
