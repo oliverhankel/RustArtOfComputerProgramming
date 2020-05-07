@@ -9,6 +9,18 @@ fn main() {
     //{
     println!("{}",y.first() == Some(&5));  //Some checks whether it is an object of a certain type
     //}
+    
+
+    //Working with tupels
+
+    let a: (i32, &str)  = (1, "hello");
+
+    let(i,s) = a;
+    println!("{}",i);
+
+
+    let t = (1,);  // tupel needs a comma
+    println!("{}",t.0)
 
 
 }
