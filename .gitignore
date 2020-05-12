@@ -13,3 +13,5 @@ functions/target
 functions/Cargo.lock
 structs/Cargo.lock
 structs/target
+enums/target
+enums/Cargo.lock
