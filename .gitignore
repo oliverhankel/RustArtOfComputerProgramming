@@ -11,3 +11,5 @@ slices/target
 slices/Cargo.lock
 functions/target
 functions/Cargo.lock
+structs/Cargo.lock
+structs/target
