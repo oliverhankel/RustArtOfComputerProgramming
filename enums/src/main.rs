@@ -20,4 +20,19 @@ fn print_move(m: Move)
         Move::Backward{steps} => println!("Move Backward: {}",steps),
         _ => println!("something"),
     };
+
+
+    //more match
+
+    let x: i32 = 13;
+    let y: i32 = 43;
+    match x
+    { 
+        a @ 1 ... 10 if y > 44 => println!("{}",a),
+        12 ... 20 => println!("{} is between 12 and 20",x),
+        _ => println!("Case not covered"),
+
+
+    };
+
 }
